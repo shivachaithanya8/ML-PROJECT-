@@ -115,6 +115,8 @@ pip install numpy opencv-python scikit-learn joblib matplotlib seaborn
 
 The model predicts the disease class of the given image.
 
-## Author
+## Authors
 
-Your Name
+1] E. SHIVA CHAITHANYA 
+2] JAY RAM 
+3] YASHWANTH
